@@ -79,9 +79,8 @@ $ yarn dev
 
 The following tools were used in the construction of the project:
 
-#### 🎲 **Backend** ([NodeJS](https://nodejs.org/en/))
+#### 🎲 **Frontend** ([NodeJS](https://reactjs.org/))
 
-- **[React](https://www.npmjs.com/package/uuid)**
 - **[react-icons](https://react-icons.github.io/react-icons/)**
 - **[Babel](https://babeljs.io/)**
 - **[Webpack](https://webpack.js.org/)**
